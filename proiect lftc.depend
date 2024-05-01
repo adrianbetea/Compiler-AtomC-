@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1712567780 source:c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\lexer.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+
+1712567805 c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\lexer.h
+
+1712567526 c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\utils.h
+	<stddef.h>
+	<stdnoreturn.h>
+
+1713264465 source:c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+	"parser.h"
+	"ad.h"
+	"at.h"
+	"vm.h"
+
+1713263961 c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\parser.h
+	<stdbool.h>
+	"lexer.h"
+	"ad.h"
+
+1713769136 source:c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+	"lexer.h"
+	"parser.h"
+	"ad.h"
+	"utils.h"
+
+1712567509 source:c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"utils.h"
+
+1681775810 c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\ad.h
+	"vm.h"
+
+1713180471 source:c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\ad.c
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+	"ad.h"
+
+1713180570 c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\vm.h
+
+1713180588 source:c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\at.c
+	<string.h>
+	"at.h"
+
+1713180598 c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\at.h
+	<stdbool.h>
+	"ad.h"
+
+1713180560 source:c:\users\adrian\onedrive - universitatea politehnica timisoara\desktop\anul 3\semestrul ii\lftc\proiect lftc\vm.c
+	<stdio.h>
+	"utils.h"
+	"ad.h"
+
